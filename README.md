@@ -2,7 +2,7 @@
 # A repo of me learning HTML 💻 
 *i put topics into thier own branch to get better at git and git hub. please view accordingly. Thank You for stopping by*
 ## Topics covered so far
-+ headings
++ ### headings
     - h1, h2, h3, h4, h5, h6
 - paragrapgh element
 - image element
