@@ -1,4 +1,4 @@
-a repo of me learning html 8 -)
+# A repo of me learning html 8 -)
 ---
 ## Topics covered so far
 + headings
