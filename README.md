@@ -1,4 +1,4 @@
-# A repo of me learning html 💻 
+# A repo of me learning HTML 💻 
 *i put topics into thier own branch to get better at git and git hub. please view accordingly. Thank You for stopping by*
 ## Topics covered so far
 + headings
