@@ -4,40 +4,40 @@
 ## Topics covered so far
 + ### headings
     - h1, h2, h3, h4, h5, h6
-- paragrapgh element
-- image element
+- ### paragrapgh element
+- ### image element
     - file paths
     - attributes
         - alt
         - width
         - height
-- audio element
-- video element
+- ### audio element
+- ### video element
     - attributes
         - controls
         - poster
         - autoplay
         - loop
-- iframes element
-- line breaks element
-- anchor element
+- ### iframes element
+- ### line breaks element
+- ### anchor element
     - attributes
         - href
             - internal
             - external
         - target=_blank
         - ids
-- superscript element
-- subscript element
-- strong element
-- emphasis element
-- special characters
-- using comments
-- list element
+- ### superscript element
+- ### subscript element
+- ### strong element
+- ### emphasis element
+- ### special characters
+- ### using comments
+- ### list element
     - unordered
     - ordered
-- table element
-- form element
+- ### table element
+- ### form element
     - attributes
         - action
         - method
@@ -56,10 +56,10 @@
             - placeholder
             - checked
             - required
-- spans
-- divs
-- inline vs block elements
-- smeantic html
+- ### spans
+- ### divs
+- ### inline vs block elements
+- ### smeantic html
     - semantic markup
     - semantic elements
 
